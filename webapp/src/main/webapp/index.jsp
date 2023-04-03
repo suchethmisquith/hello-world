@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account. Tested for Devops Push and Build</p>
+    <p>Just not added a new scheduled auto build job</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
